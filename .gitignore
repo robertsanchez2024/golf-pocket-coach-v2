@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Env
+.env
+.env.local
+*.local
+
+# Python (for future backend)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
